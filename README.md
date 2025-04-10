@@ -1,4 +1,4 @@
-Claro! Aqui está um modelo de `README.md` completinho para o seu projeto **E-Commerce na Cloud com Streamlit + Azure Blob + SQL Server**:
+**E-Commerce na Cloud com Streamlit + Azure Blob + SQL Server**:
 
 ---
 
